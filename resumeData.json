@@ -1,29 +1,25 @@
 {
   "basics": {
-    "name": "David Loder",
-    "role": "IT Consultant",
+    "name": "John Kroll",
+    "role": "Student",
     "location": "Philadelphia, PA",
-    "email": "davidloder92@temple.edu",
-    "phone": "+1(999) 999-9999",
+    "email": "johnnybuckets22@yahoo.com",
+    "phone": "+1(215) 290-6117",
     "profilePic": "/img/profilepic.jpeg"
   },
   "skills": [
     {
-      "name": "React JS",
-      "level": 90
+      "name": "JavaScript",
+      "level": 50
     },
     {
       "name": "Java",
-      "level": 60
+      "level": 50
     },
     {
       "name": "Python",
       "level": 50
     },
-    {
-      "name": "MongoDb",
-      "level": 70
-    }
   ],
   "languages": [
     {
@@ -31,55 +27,35 @@
       "level": 100
     },
     {
-      "name": "Jibberish",
-      "level": 100
+      "name": "Spanish",
+      "level": 40
     }
   ],
   "workExperience": [
     {
-      "position": "Teaching Assistant Python",
-      "company": "Temple University",
-      "startDate": "August 2024",
+      "position": "Busser/Runner",
+      "company": "Icona Windrift",
+      "startDate": "June 2022",
       "endDate": "Current",
-      "description": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
+      "description": "Would clean the dishes and silverware off of the tables and clean them once the customers are done with food. Or I would deliver the food to the customers and help out the waiters and waitresses with their tables."
     },
     {
-      "position": "Consumer Electronic Agent",
-      "company": "BestBuy / Geek Squad",
-      "startDate": "Nov 2021",
-      "endDate": "Current",
-      "description": "Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
+      "position": "Expeditor",
+      "company": "Donna's Place",
+      "startDate": "June 2019",
+      "endDate": "June 2023",
+      "description": "Would manage take out as well as sit in orders. Would help prepare the food and plate it."
     },
-    {
-      "position": "Mobile App Developer",
-      "company": "Lenegan Plumbing & Heating",
-      "startDate": "Mar 2021",
-      "endDate": "Nov 2021",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-    }
   ],
   "education": [
     {
       "school": "Temple University",
-      "degree": "Information Science & Technology",
-      "startDate": "January 2020",
-      "endDate": "May 2026",
+      "degree": "Computer Science (BS)",
+      "startDate": "August 2024",
+      "endDate": "May 2028",
       "description": "Information Science & Technology"
     },
-    {
-      "school": "Camden County College",
-      "degree": "Liberal Arts",
-      "startDate": "2012",
-      "endDate": "2016",
-      "description": "Liberal Arts"
-    },
-    {
-      "school": "Atlantic Cape Community College",
-      "degree": "Liberal Arts",
-      "startDate": "2010",
-      "endDate": "2013",
-      "description": "Liberal Arts"
-    }
+
   ],
   "socialMedia": {
     "facebook": "",
