@@ -5,7 +5,7 @@
     "location": "Philadelphia, PA",
     "email": "johnnybuckets22@yahoo.com",
     "phone": "+1(215) 290-6117",
-    "profilePic": "/img/profilepic.jpeg"
+    "profilePic": "/img/IMG_4958.jpeg"
   },
   "skills": [
     {
@@ -19,7 +19,7 @@
     {
       "name": "Python",
       "level": 50
-    },
+    }
   ],
   "languages": [
     {
@@ -44,8 +44,8 @@
       "company": "Donna's Place",
       "startDate": "June 2019",
       "endDate": "June 2023",
-      "description": "Would manage take out as well as sit in orders. Would help prepare the food and plate it."
-    },
+      "description": "Would manage take-out as well as sit-in orders. Would help prepare the food and plate it."
+    }
   ],
   "education": [
     {
@@ -54,8 +54,7 @@
       "startDate": "August 2024",
       "endDate": "May 2028",
       "description": "Information Science & Technology"
-    },
-
+    }
   ],
   "socialMedia": {
     "facebook": "",
